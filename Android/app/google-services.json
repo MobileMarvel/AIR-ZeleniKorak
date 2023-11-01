@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126840634543",
+    "project_id": "zelenikorak-3a734",
+    "storage_bucket": "zelenikorak-3a734.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126840634543:android:7faf6ae1bde46d6db8a85a",
+        "android_client_info": {
+          "package_name": "hr.foi.air.zelenikorak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLOFdzZoeJKHlieq2WXL_5y6Ol9H5w2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
