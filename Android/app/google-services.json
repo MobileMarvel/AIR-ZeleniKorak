@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "126840634543",
+    "firebase_url": "https://zelenikorak-3a734-default-rtdb.firebaseio.com",
     "project_id": "zelenikorak-3a734",
     "storage_bucket": "zelenikorak-3a734.appspot.com"
   },
@@ -12,7 +13,20 @@
           "package_name": "hr.foi.air.zelenikorak"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "126840634543-i8jk1mueh8vgc2jiat08a55rua2cahee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.foi.air.zelenikorak",
+            "certificate_hash": "7eaf6af3bf5e048dfc45eb5a7c4c425b83ef9ab9"
+          }
+        },
+        {
+          "client_id": "126840634543-mo3c0isiulchkamp70n14rb528e02d4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAXLOFdzZoeJKHlieq2WXL_5y6Ol9H5w2s"
@@ -20,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126840634543-mo3c0isiulchkamp70n14rb528e02d4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
