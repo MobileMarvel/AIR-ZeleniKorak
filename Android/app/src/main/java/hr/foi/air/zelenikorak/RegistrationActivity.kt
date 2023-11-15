@@ -16,7 +16,7 @@ class RegistrationActivity : AppCompatActivity() {
     private lateinit var email: EditText
     private lateinit var lozinka: EditText
 
-    private fun Register() {
+    private fun register() {
         val firstName = ime.text.toString().trim { it <= ' ' }
         val lastName = prezime.text.toString().trim { it <= ' ' }
         val userEmail = email.text.toString().trim { it <= ' ' }
@@ -83,7 +83,7 @@ class RegistrationActivity : AppCompatActivity() {
         val registerButton: Button = findViewById(R.id.register_b)
 
         registerButton.setOnClickListener {
-            Register()
+            register()
         }
     }
 }
